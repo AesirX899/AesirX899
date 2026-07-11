@@ -23,10 +23,20 @@ Enfoque: automatización de cálculos de ingeniería, modelación numérica, an�
 
 ## 📌 Proyectos destacados
 
+**Ingeniería estructural**
+
 | Proyecto | Descripción |
 |---|---|
 | [**diseno-estructural-nsr10**](https://github.com/AesirX899/diseno-estructural-nsr10) | Automatización del análisis y diseño estructural NSR-10 con Python (cargas, sismo, ETABS/SAP2000, derivas, diseño de elementos). |
 | [**etabs-python-api**](https://github.com/AesirX899/etabs-python-api) | Control de ETABS por la CSI OAPI desde Python para iterar el diseño automáticamente. |
+
+**Desarrollo de software y automatización**
+
+| Proyecto | Descripción |
+|---|---|
+| [**selenium-rpa-demo**](https://github.com/AesirX899/selenium-rpa-demo) | Automatización web (RPA) con Selenium y buenas prácticas (esperas explícitas, extracción de datos). |
+| [**eel-desktop-app-template**](https://github.com/AesirX899/eel-desktop-app-template) | Plantilla de aplicación de escritorio con Python + Eel + interfaz web. |
+| [**calculadora-liquidacion-co**](https://github.com/AesirX899/calculadora-liquidacion-co) | Cálculo de liquidación laboral (Código Sustantivo del Trabajo), tipado y con pruebas. |
 
 ## 📫 Contacto
 
